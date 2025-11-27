@@ -1,0 +1,3 @@
+x-rechte für Shell-Skripte setzen
+cronjobs einrichten
+können auch per Shell-Skript php als html Momentaufnahme parsen und als json string rüberschicken, css auf Memory auf esp speichern (und einmal am tag abrufen?), um so doch eine (vorerst statische) Mini-Webseite zu generieren
